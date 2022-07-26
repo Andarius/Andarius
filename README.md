@@ -8,7 +8,9 @@ I'm a Software Engineer from Paris 🇫🇷, sometimes working from beautiful Si
 <p>
   <img align='left' src="https://obitrain.com/_next/image?url=%2Fimages%2Fobitrain-icon-150.png&w=96&q=100" width="96">
 </p>
- 
+
+<br/>
+
 ### [Obitrain](https://obitrain.com/)
 
 I'm currently working in my free time on Obitrain, a sport app that allows you to create your own sport trainings.
@@ -17,7 +19,9 @@ You can also share them with your friends, connect your devices & more.
 
  ---
 
-# Open source projects 
+
+
+### Open source projects 
 
 
 <table>
@@ -40,6 +44,6 @@ You can also share them with your friends, connect your devices & more.
 </table>
 
 
-# Others
+### Others
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=andarius&count_private=true&show_icons=true&theme=radical)
