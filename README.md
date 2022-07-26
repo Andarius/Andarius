@@ -1,6 +1,5 @@
-### Bonjour 👋
+### Bonjour 👋, I'm Julien
 
-My name is Julien, 
 
 I'm a Software Engineer from Paris 🇫🇷, sometimes working from beautiful Sicily 🇮🇹. 
 
