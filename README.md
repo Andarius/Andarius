@@ -1,7 +1,9 @@
 ### Bonjour 👋, I'm Julien
 
 
-I'm a Software Engineer from Paris 🇫🇷, sometimes working from beautiful Sicily 🇮🇹. 
+I'm a Software Engineer from Paris 🇫🇷, sometimes working from beautiful Sicily 🇮🇹.  
+
+I set up several Datalake and have a main focus as a Data Engineer, but I like to understand how things work and try new technologies, mainly using TypeScript (for React / React Native apps) and Python (for Data / ML related stuff or backend services).
 
 --- 
 <p>
