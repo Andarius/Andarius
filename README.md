@@ -12,8 +12,9 @@ I set up several Datalake and have a main focus as a Data Engineer, but I like t
 
 ### [Obitrain](https://obitrain.com/)
 
-I'm currently working in my free time on Obitrain, a sport app that allows you to create your own sport trainings.
-You can also share them with your friends, connect your devices & more.  
+In my free time, I’m currently working on Obitrain, a sports app that lets you create your own training plans.
+You can also share them with friends, connect your devices, and more.
+I'm using it daily!
 
 
  ---
@@ -27,6 +28,7 @@ You can also share them with your friends, connect your devices & more.
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>🧭 Focus</b></td>
       <td><b>📙 Langage</b></td>
       <td><b>⭐ Stars</b></td>
     </tr>
@@ -36,8 +38,16 @@ You can also share them with your friends, connect your devices & more.
       <td>
        <a href="https://github.com/Andarius/piou"><b>Piou</b></a>
       </td>
+      <td>Type-safe CLI builder with Rich support</td>
       <td>🐍  <b>Python</b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/andarius/piou?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Andarius/react-native-zstd"><b>react-native-zstd</b></a></td>
+        <td>Zstandard compression bindings for React Native</td>
+        <td><img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/8e26fe1c-4a49-485c-80b2-1ed69881d832" />
+ <b>TypeScript</b></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/andarius/react-native-zstd?style=flat-square"/></td>
     </tr>
   </tbody>
 </table>
