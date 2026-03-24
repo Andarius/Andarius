@@ -7,7 +7,7 @@ I set up several Datalake and have a main focus as a Data Engineer, but I like t
 
 --- 
 <p>
-  <img align='left' src="https://obitrain.com/_next/image?url=%2Fimages%2Fobitrain-icon-150.png&w=96&q=100" width="96">
+  <img align='left' src="https://obitrain.com/images/obitrain-icon-150.png" width="96">
 </p>
 
 ### [Obitrain](https://obitrain.com/)
